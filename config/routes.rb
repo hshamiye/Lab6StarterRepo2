@@ -3,6 +3,7 @@ Rails.application.routes.draw do
 
   # Generated model routes
   resources :books
+  resources :authors
   # need routes for authors and categories ...
   
   # Additional routes we've created for this project
