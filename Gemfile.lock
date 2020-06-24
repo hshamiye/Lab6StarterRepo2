@@ -106,7 +106,7 @@ GEM
     populator3 (0.2.7)
     power_assert (1.1.7)
     puma (3.12.4)
-    rack (2.2.2)
+    rack (2.2.3)
     rack-contrib (2.1.0)
       rack (~> 2.0)
     rack-test (1.1.0)
